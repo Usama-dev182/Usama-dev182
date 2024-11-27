@@ -13,8 +13,11 @@ When I'm not coding, you'll find me exploring new technologies, solving real-wor
 ---
 
 ## 🌱 I’m Currently Learning
-[![German](https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png)](https://www.duolingo.com/profile/Usamaali109508)  
+<a href="https://www.duolingo.com/profile/Usamaali109508">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German" width="50" style="border-radius:5px;">
+</a>  
 *Click the flag to visit my Duolingo profile!*
+
 
 ---
 
