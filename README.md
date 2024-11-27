@@ -10,25 +10,6 @@ I'm a passionate software engineer from Pakistan 🇵🇰, with over 3 years of 
 
 When I'm not coding, you'll find me exploring new technologies, solving real-world problems, or contributing to open-source projects.
 
----
-
-## 🌱 I’m Currently Learning
-<a href="https://www.duolingo.com/profile/Usamaali109508">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German" width="50" style="border-radius:5px;">
-</a>  
-      *Click the flag to visit my Duolingo profile!*
-
-
----
-
-## 🔗 Connect with Me
-
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@usamaali1543/videos)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/info-usama-ali/)  
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usama-dev182)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infousamaali1@gmail.com)  
-
----
 
 ## 🌟 My Skills
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Redux, Redux Toolkit, React Query  
@@ -55,6 +36,15 @@ Currently expanding my expertise in:
 
 ---
 
+---
+
+## 🌱 I’m Currently Learning
+<a href="https://www.duolingo.com/profile/Usamaali109508">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="German" width="50" style="border-radius:5px;">
+</a>  
+      *Click the flag to visit my Duolingo profile!*
+
+
 ## ✍️ Featured Content
 Check out my writings and technical articles:  
 - Medium Profile: [Coming Soon]  
@@ -66,6 +56,17 @@ Check out my writings and technical articles:
 
 ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usama-dev182&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usama-dev182&layout=compact)
+
+---
+
+---
+
+## 🔗 Connect with Me
+
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@usamaali1543/videos)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/info-usama-ali/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usama-dev182)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infousamaali1@gmail.com)  
 
 ---
 
