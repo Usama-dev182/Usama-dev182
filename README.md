@@ -12,20 +12,20 @@ When I'm not coding, you'll find me exploring new technologies, solving real-wor
 
 ---
 
+## 🔗 Connect with Me
+
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@usamaali1543/videos)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/info-usama-ali/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usama-dev182)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infousamaali1@gmail.com)  
+
+---
+
 ## 🌟 My Skills
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Redux, Redux Toolkit, React Query  
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
 - **Tooling:** TailwindCSS, MUI, Bootstrap, Jest, CI/CD, Styled Components  
 - **Other Skills:** Leadership, Teamwork, Communication, Time Management  
-
----
-
-## 🔗 My Profiles
-- **YouTube:**  
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@usamaali1543/videos)
-- **LinkedIn:** [info-usama-ali](https://www.linkedin.com/in/info-usama-ali/)  
-- **GitHub:** [Usama-dev182](https://github.com/Usama-dev182)  
-- **Email:** [infousamaali1@gmail.com](mailto:infousamaali1@gmail.com)
 
 ---
 
