@@ -36,7 +36,6 @@ Currently expanding my expertise in:
 
 ---
 
----
 
 ## 🌱 I’m Currently Learning
 <a href="https://www.duolingo.com/profile/Usamaali109508">
