@@ -42,7 +42,7 @@ I am currently working on scalable data pipeline solutions at **Techling Pvt** a
 ## 🌱 Learning Goals
 Currently expanding my expertise in:
 - Advanced TypeScript patterns 🌀  
-- Backend development with Node.js 🌐  
+- Advanced JavaScript 🌐  
 
 ---
 
