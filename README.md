@@ -12,6 +12,12 @@ When I'm not coding, you'll find me exploring new technologies, solving real-wor
 
 ---
 
+## 🌱 I’m Currently Learning
+[![German](https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png)](https://www.duolingo.com/profile/Usamaali109508)  
+*Click the flag to visit my Duolingo profile!*
+
+---
+
 ## 🔗 Connect with Me
 
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@usamaali1543/videos)  
@@ -42,7 +48,7 @@ I am currently working on scalable data pipeline solutions at **Techling Pvt** a
 ## 🌱 Learning Goals
 Currently expanding my expertise in:
 - Advanced TypeScript patterns 🌀  
-- Advanced JavaScript 🌐  
+- Backend development with Node.js 🌐  
 
 ---
 
