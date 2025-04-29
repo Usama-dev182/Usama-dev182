@@ -6,7 +6,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-I'm a passionate software engineer from Pakistan 🇵🇰, with over 3 years of experience crafting seamless user experiences and scalable frontend solutions. My expertise lies in translating complex Figma designs into high-performing user interfaces and optimizing API integrations for web applications.
+I'm a passionate software engineer from Pakistan 🇵🇰, with over 2+ years of experience crafting seamless user experiences and scalable frontend solutions. My expertise lies in translating complex Figma designs into high-performing user interfaces and optimizing API integrations for web applications.
 
 When I'm not coding, you'll find me exploring new technologies, solving real-world problems, or contributing to open-source projects.
 
