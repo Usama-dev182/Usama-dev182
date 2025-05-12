@@ -70,4 +70,4 @@ Check out my writings and technical articles:
 
 ## ❤️ Fun Facts
 - I love creating solutions that make users’ lives easier.  
-- When I’m not coding, I enjoy spending time with family, exploring new tools, and gaming.  
+- When I’m not coding, I enjoy spending time with family, exploring new tools, and sports.  
