@@ -20,7 +20,7 @@ When I'm not coding, you'll find me exploring new technologies, solving real-wor
 ---
 
 ## 🔭 Current Work
-I am currently working on scalable data pipeline solutions at **Techling Pvt** as a frontend developer, collaborating with global teams and integrating complex APIs into user-friendly interfaces.
+I am a frontend developer currently working at **ENBIOSIS Biotechnology.** Previously, I worked at Techling Pvt, where I focused on building scalable data pipeline solutions, collaborating with global teams, and integrating complex APIs into user-friendly interfaces.
 
 ### Key Projects:
 - [**Daspire Website**](https://www.daspire.com/): Redesigned and optimized the platform for enhanced user engagement.  
