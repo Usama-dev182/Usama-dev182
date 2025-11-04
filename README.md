@@ -25,7 +25,7 @@ When I'm not coding, you'll find me exploring new technologies, solving real-wor
 
 ## 🔭 What I'm Working On
 
-Currently, I’m a frontend engineer at **ENBIOSIS Biotechnology**, creating health-tech solutions that drive real impact. Previously, I worked at Techling Pvt, focusing on scalable data pipeline solutions, collaborating with global teams, and integrating complex APIs into beautiful, user-friendly interfaces.
+Currently, I’m a frontend engineer at **eBrainX Solutions**, creating health-tech solutions that drive real impact. Previously, I worked at Techling Pvt, focusing on scalable data pipeline solutions, collaborating with global teams, and integrating complex APIs into beautiful, user-friendly interfaces.
 
 ### 🚩 Key Projects
 
