@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Usama Ali
 
-🚀 **Frontend Engineer | Frontend React & TypeScript Developer | Problem Solver | Digital Creator | Team Leader**  
+🚀 **Frontend engineer | Frontend react developer | Frontend typeScript developer | react developer | frontend developer**  
 🎯 **Specializing in React.js, TypeScript, modern frontend technologies — and building AI-enabled frontends**  
 
 ---
