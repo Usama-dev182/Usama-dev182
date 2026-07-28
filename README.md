@@ -8,7 +8,7 @@ Frontend Software Engineer (4+ years) building production SaaS platforms — now
 
 ## 🚀 What I've Shipped
 
-- **eBrain** — Multi-tenant event management SaaS. Led frontend architecture, integrated an AI assistant (Emily) with streaming responses and persistent chat history, built Playwright E2E coverage.
+- **eBrain** — Multi-tenant event management SaaS. Led frontend architecture, integrated an AI assistant.
 - **Daspire** — E-commerce data pipeline dashboard (React, MUI, Redux) with real-time analytics and REST API integration.
 - **Cohere** — SaaS collaboration platform with real-time features and data visualizations.
 
