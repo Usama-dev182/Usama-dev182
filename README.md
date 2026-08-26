@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usama Ali
 
-## Software Engineer | AI Product Engineer | React & Next.js Specialist
+## AI Product Engineer — Full-Stack & Applied AI
 
 I build **production-grade SaaS platforms, AI-powered applications, dashboards, and data-driven web products** using React, Next.js, TypeScript, Python, and modern engineering practices.
 
