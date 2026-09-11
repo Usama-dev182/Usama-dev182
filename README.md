@@ -13,25 +13,6 @@ With **5+ years of experience shipping applications used by real businesses**, I
 
 ## 🚀 What I've Shipped
 
-### 🏠 MyHomeWithHope — AI-Powered Real Estate SaaS Platform
-
-An AI-powered real estate platform helping Realtors connect with buyers through intelligent conversations, automated workflows, and personalized customer experiences.
-
-Built end-to-end across:
-- Frontend architecture
-- Backend services
-- AI workflows
-- API integrations
-- SaaS product features
-
-Key areas:
-- Next.js/React application architecture
-- AI-powered conversational experiences
-- Lead engagement and qualification workflows
-- Scalable product infrastructure
-
-**Tech:** Next.js · React · TypeScript · Python · FastAPI · Supabase · PostgreSQL · AI Integrations
-
 ---
 
 ### 🚀 eBrain — Multi-Tenant Event Management SaaS
