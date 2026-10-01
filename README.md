@@ -15,7 +15,7 @@ With **5+ years of experience shipping applications used by real businesses**, I
 
 ---
 
-### 🚀 eBrain — Multi-Tenant Event Management SaaS
+### 🚀 eB — Multi-Tenant Event Management SaaS
 
 Enterprise event management platform supporting complete event operations from setup to live execution.
 
