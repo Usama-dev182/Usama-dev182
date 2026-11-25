@@ -15,7 +15,7 @@ With **5+ years of experience shipping applications used by real businesses**, I
 
 ---
 
-### 🚀 eB — Multi-Tenant Event Management SaaS
+### 🚀 eBrainX Solutions — Multi-Tenant Event Management SaaS
 
 Enterprise event management platform supporting complete event operations from setup to live execution.
 
